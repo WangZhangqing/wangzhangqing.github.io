@@ -4,8 +4,8 @@
 
 # Site
 title: 从入门到放弃系列
-subtitle: ''
-description: ''
+subtitle: '一切皆可放弃'
+description: '放弃一切后就可得自由'
 keywords:
 author: Wang Zhangqing
 language: zh-CN  # 指定语言，会影响主题显示的语言，按需修改
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://wangzhangqing.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,4 +103,4 @@ theme: landscape
 deploy:
   type: git
   repository: git@github.com:WangZhangqing/wangzhangqing.github.io.git
-  branch: dist
+  branch: main
