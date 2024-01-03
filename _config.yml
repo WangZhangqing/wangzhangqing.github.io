@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 从入门到放弃系列
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: Wang Zhangqing
+language: zh-CN  # 指定语言，会影响主题显示的语言，按需修改
 timezone: ''
 
 # URL
